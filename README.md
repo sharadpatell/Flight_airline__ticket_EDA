@@ -45,7 +45,7 @@ Note
 GoAir excluded (shut down).
 Explore code and visualizations for insights.
 
-By Sharad Pate
+By Sharad Patel
 
 
 
