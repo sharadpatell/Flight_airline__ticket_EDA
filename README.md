@@ -15,11 +15,9 @@ Jupyter Notebook
 Libraries: pandas, numpy, matplotlib, seaborn, plotly (for visualization)
 
 
-Dataset
-
-CSV files in the "data" folder.
-Data
-Load CSVs for different routes.
+Dataset : 
+Downloaded from the kaggle 
+link (https://www.kaggle.com/datasets/andrewgeorgeissac/flight-price-data-of-indian-cities-makemytrip)
 
 Handle null values.
 
